@@ -18,7 +18,7 @@ This project predicts a person's salary based on their years of experience using
 ## 🧠 Models Used
 
 - Linear Regression
-- Polynomial Regression
+- Random Forest
 - Decision Tree Regressor etc..
 
 ## 📈 Evaluation Metrics
